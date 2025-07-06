@@ -1,0 +1,34 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# MacOS/Windows files
+.DS_Store
+Thumbs.db
+
+# Model weights and large files
+*.pt
+*.h5
+*.ckpt
+
+# Logs
+*.log
+
+# Scrcpy recordings or screenshots (if any)
+*.mp4
+*.png
+
+# IDE/editor config
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
