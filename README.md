@@ -59,9 +59,9 @@ ngrok http 5000
 ```
 
 ### 4. Run the Detection Script
-
+```python
 python maidet.py
-
+```
 ### 5. Mobile Setup
 Install scrcpy and connect your phone via USB to mirror the drone camera app (e.g., WiFi UAV).
 
